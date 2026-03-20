@@ -1,0 +1,10 @@
+# Ignore session recordings
+*.mp4
+*.mov
+*.mkv
+
+# OS / temp files
+*.DS_Store
+*.Thumbs.db
+*.log
+
